@@ -1,0 +1,1 @@
+Start with k = 0, which will track both the count of non-val elements and their position in nums. For each element x in nums ,If x is not equal to val, place x at nums[k] and increment k. After the loop, the first k elements of nums contain all values except val, and k represents the count of these elements. Return k
