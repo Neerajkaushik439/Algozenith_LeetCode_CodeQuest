@@ -1,0 +1,1 @@
+Convert the number to a list of digits and store the last occurrence of each (0-9) for quick lookup. Traverse the digits, and for each one, check if there’s a larger digit later that can be swapped to maximize the number. Perform the swap if possible, break, and convert the list back to an integer.
