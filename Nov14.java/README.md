@@ -1,0 +1,1 @@
+we created a hashset and traversd the whole string , store the current element into the hashset if it is not present , if it is present then remove the elements from that by applyng a while loop and increase the start by one 
