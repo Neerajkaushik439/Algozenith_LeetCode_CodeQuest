@@ -1,0 +1,1 @@
+The approach to solving the problem involves simulating long multiplication by iterating through each digit of both input strings, multiplying them and storing the results in an array. After handling carries and constructing the final product, the result is converted back into a string while skipping leading zeros.
