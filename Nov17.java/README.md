@@ -1,0 +1,1 @@
+ use a two-pointer approach. First, move one pointer 𝑛 steps ahead, then move both pointers simultaneously until the first pointer reaches the end. Adjust the next pointer of the preceding node to remove the n-th node efficiently in a single traversal.
