@@ -1,0 +1,1 @@
+requires sorting an array of names based on corresponding heights in descending order. The input consists of two arrays: one containing names and the other heights. The task is to return the names sorted by the heights from highest to lowest.
