@@ -1,0 +1,1 @@
+To solve 3Sum Closest, first sort the array to simplify traversal. Use a for loop to fix one number and apply the two-pointer technique to find the closest sum to the target. Continuously update the closest sum based on the absolute difference from the target.
