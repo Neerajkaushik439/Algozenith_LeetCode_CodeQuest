@@ -1,0 +1,1 @@
+The approach involves iterating through each string in the array and checking if it is a substring of any other string. If it is, the string is added to the result list while ensuring no duplicates. This uses two nested loops: the outer loop picks a string, and the inner loop checks it against all other strings.
