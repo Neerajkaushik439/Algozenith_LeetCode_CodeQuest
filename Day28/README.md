@@ -1,0 +1,1 @@
+ use a recursive depth-first search (DFS) approach. Traverse the binary tree starting from the root, recursively calculating the maximum depth of the left and right subtrees, and return the greater depth between the two plus one (to account for the current node). If the root is `null`, return 0 as the base case.
