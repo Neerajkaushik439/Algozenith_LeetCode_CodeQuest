@@ -1,0 +1,1 @@
+ use the **expand around center** approach. Iterate through each character in the string, considering it as a center (or pair of centers for even-length palindromes). Expand outward while the characters on both sides are equal, keeping track of the longest palindrome found. This approach ensures a time complexity of \(O(n^2)\) and space complexity of \(O(1)\).
