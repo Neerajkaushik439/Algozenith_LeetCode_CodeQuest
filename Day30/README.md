@@ -1,0 +1,1 @@
+To determine if a number is a palindrome, compare its reverse with the original. First, handle edge cases like negative numbers (not palindromes). Then, reverse the number using a loop while extracting digits and check if the reversed number matches the original.
